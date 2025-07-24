@@ -23,6 +23,12 @@
   font-style: normal;
   color: #8987A1;
 }
+.inter-regular-secondary{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 .inter-regular-description{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
