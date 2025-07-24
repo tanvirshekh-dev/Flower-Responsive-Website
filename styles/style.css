@@ -28,8 +28,16 @@
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 22px;
+  font-size: 20px;
   color: rgba(0, 0, 0, 0.5);
+}
+.inter-medium{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: rgba(17, 17, 17, 1);
 }
 .inter-semibold{
   font-family: "Inter", sans-serif;
@@ -46,4 +54,7 @@
 /* Shared style */
 .primary-color{
     color: #E95A08;
+}
+.bg-primary-color{
+    background-color: #E95A08;
 }
