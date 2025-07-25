@@ -11,7 +11,6 @@
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-size: 50px;
 }
 
 /* inter font */
@@ -65,3 +64,22 @@
     background-color: #E95A08;
 }
 
+/* carts section */
+.deals-img-items-01{
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(../assets/deal-bloom.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.deals-img-items-02{
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(../assets/deal-zabo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.deals-img-items-03{
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(../assets/deal-ana.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
